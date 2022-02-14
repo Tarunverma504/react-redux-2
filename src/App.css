@@ -1,3 +1,18 @@
+.container button{
+  width:50px;
+  height:50px;
+  margin: 0px 20px;
+  font-weight: bold;
+}
+
+.container input{
+  width:50px;
+  height: 45px;
+  text-align: center;
+  font-weight:bold;
+}
+
+
 .App {
   text-align: center;
 }
